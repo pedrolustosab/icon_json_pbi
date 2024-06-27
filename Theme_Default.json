@@ -1,0 +1,349 @@
+﻿{
+    "$schema": "reportThemeSchema-2.129.json",
+    "name": "Default Theme",
+    "dataColors": [
+        "#1C4F56",
+        "#B3B3B3",
+        "#E2A06F",
+        "#EC7706",
+        "#1D3B86",
+        "#692684",
+        "#FDAD0D",
+        "#F55902"  
+    ],
+    "good": "#029602",
+    "neutral": "#FDAD0D",
+    "bad": "#FD0D0D",
+    "minimum": "#FDBE3F",
+    "center": "#0D9DA5",
+    "maximum": "#330DA5",
+    "foreground": "#3D3D3D",
+    "firstLevelElements": "#3D3D3D",
+    "foregroundNeutralSecondary": "#575757",
+    "secondLevelElements": "#575757",
+    "backgroundLight": "#FFFFFF",
+    "backgroundDark": "#242424",
+    "thirdLevelElements": "#6E6E6E",
+    "foregroundNeutralTertiary": "#6E6E6E",
+    "fourthLevelElements": "#9E9E9E",
+    "background": "#FFFFFF",
+    "backgroundNeutral": "#F5F5F5",
+    "secondaryBackground": "#F5F5F5",
+    "accent": "#9E9E9E",
+    "tableAccent": "#9E9E9E",
+    "textClasses": {
+        "callout": {
+            "fontFace": "'Segoe UI', wf_segoe-ui_bold, arial",
+            "fontSize": 16,
+            "color": "#949599"
+        },
+        "header": {
+            "fontFace": "'Segoe UI', wf_segoe-ui, arial",
+            "fontSize": 12,
+            "color": "#949599"
+        },
+        "title": {
+            "fontFace": "'Segoe UI', wf_segoe-ui, arial",
+            "fontSize": 12,
+            "color": "#949599"
+        },
+        "largeTitle": {
+            "fontFace": " 'Segoe UI', wf_segoe-ui_bold, arial",
+            "fontSize": 12,
+            "color": "#949599"
+        },
+        "label": {
+            "fontFace": " 'Segoe UI', wf_segoe-ui, arial",
+            "fontSize": 12,
+            "color": "#949599"
+        },
+        "semiboldLabel": {
+            "fontFace": "'Segoe UI', wf_segoe-ui, arial",
+            "fontSize": 12,
+            "color": "#949599"
+        },
+        "largeLabel": {
+            "fontFace": "'Segoe UI', wf_segoe-ui, arial",
+            "fontSize": 12,
+            "color": "#949599"
+        },
+        "smallLabel": {
+            "fontFace": " 'Segoe UI', wf_segoe-ui, arial",
+            "fontSize": 11,
+            "color": "#949599"
+        },
+        "lightLabel": {
+            "fontFace": " 'Segoe UI', wf_segoe-ui, arial",
+            "fontSize": 11,
+            "color": "#949599"
+        },
+        "boldLabel": {
+            "fontFace": " 'Segoe UI', wf_segoe-ui, arial",
+            "fontSize": 11,
+            "color": "#949599"
+        },
+        "largeLightLabel": {
+            "fontFace": " 'Segoe UI', wf_segoe-ui, arial",
+            "fontSize": 11,
+            "color": "#949599"
+        },
+        "smallLightLabel": {
+            "fontFace": "'Segoe UI', wf_segoe-ui, arial",
+            "fontSize": 11,
+            "color": "#949599"
+        }
+    },
+    "visualStyles": {
+        "*": {
+            "*": {
+                "background": [
+                    {
+                        "color": {
+                            "solid": {
+                                "color": "#F7F7F7"
+                            }
+                        },
+                        "show": false,
+                        "transparency": 0
+                    }
+                ],
+                "border": [
+                    {
+                        "color": {
+                            "solid": {
+                                "color": "#F7F7F7"
+                            }
+                        },
+                        "radius": 10,
+                        "show": false
+                    }
+                ],
+                "divider": [
+                    {
+                        "color": {
+                            "solid": {
+                                "color": "#CCCCCC"
+                            }
+                        },
+                        "show": false,
+                        "style": "solid",
+                        "width": 1
+                    }
+                ],
+                "legend": [
+                    {
+                        "position": "Top",
+                        "showTitle": false,
+                        "legendMarkerRendering": "lineAndMarker",
+                        "matchLineColor": true
+                    }
+                ],
+                "labels": [
+                    {
+                        "labelOrientation": "horizontal",
+                        "labelDisplayUnits": 1,
+                        "labelPrecision": 0,
+                        "enableBackground": false
+                    }
+                ],
+                "categoryAxis": [
+                    {
+                        "showAxisTitle": false,
+                        "axisStyle": "showTitleOnly",
+                        "preferredCategoryWidth": 20,
+                        "maxMarginFactor": 50,
+                        "innerPadding": 22,
+                        "gridlineShow": false
+                    }
+                ],
+                "valueAxis": [
+                    {
+                        "show": false,
+                        "showAxisTitle": false,
+                        "labelDisplayUnits": "1",
+                        "labelPrecision": 0,
+                        "gridlineShow": false
+                    }
+                ],
+                "totals": [
+                    {
+                        "bold": true,
+                        "show": true
+                    }
+                ],
+                "visualTooltip": [
+                    {
+                        "actionFontColor": {
+                            "solid": {
+                                "color": "#909090"
+                            }
+                        },
+                        "themedBackground": {
+                            "solid": {
+                                "color": "#1B1B1B"
+                            }
+                        },
+                        "themedTitleFontColor": {
+                            "solid": {
+                                "color": "#909090"
+                            }
+                        },
+                        "themedValueFontColor": {
+                            "solid": {
+                                "color": "#909090"
+                            }
+                        }
+                    }
+                ],
+                "padding": [
+                    {
+                        "top": 8,
+                        "right": 8,
+                        "bottom": 8,
+                        "left": 8
+                    }
+                ]
+            }
+        },
+        "page": {
+            "*": {
+                "outspace": [
+                    {
+                        "color": {
+                            "solid": {
+                                "color": "#fefefe"
+                            }
+                        },
+                        "transparency": 0
+                    }
+                ],
+                "background": [
+                    {
+                        "color": {
+                            "solid": {
+                                "color": "#fefefe"
+                            }
+                        },
+                        "transparency": 100
+                    }
+                ]
+            }
+        },
+        "pivotTable": {
+            "*": {
+                "stylePreset": [
+                    {
+                        "name": "Minimal"
+                    }
+                ]
+            }
+        },
+        "tableEx": {
+            "*": {
+                "stylePreset": [
+                    {
+                        "name": "Minimal"
+                    }
+                ]
+            }
+        },
+        "textbox": {
+            "*": {
+                "border": [
+                    {
+                        "show": false
+                    }
+                ],
+                "background": [
+                    {
+                        "show": false
+                    }
+                ],
+                "dropShadow": [
+                    {
+                        "show": false
+                    }
+                ]
+            }
+        },
+        "slicer": {
+			"*": {
+				"header": [{
+					"show": true,
+					"textSize": 12,
+					"fontFamily": "Segoe UI",
+                    "fontColor": { "solid": { "color": "#fefefe"}}
+				}],
+                "background": [
+                    {
+                        "show": false
+                    }
+                ],
+                "border": [
+                    {
+                        "show": false
+                    }
+                ],
+				"items": [{
+					"fontColor": { "solid": { "color": "#949599"}},
+					"background": { "solid": { "color": "#fefefe"}},
+					"textSize": 11,
+					"fontFamily": "Segoe UI"
+				}]
+			}
+		},
+        "gauge": {
+            "*": {
+                "calloutValue": [
+                    {
+                        "fontFamily": "'Segoe UI Semibold', wf_segoe-ui_semibold, arial",
+                        "labelDisplayUnits": 1,
+                        "labelPrecision": 0,
+                        "color": {
+                            "solid": {
+                                "color": "#3D3D3D"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "icons": {
+        "Growth": {
+            "description": "Growth",
+            "url": "data:image/svg+xml;utf8, <svg width='1900' height='1360' viewBox='0 0 1900 1360' fill='none' xmlns='http://www.w3.org/2000/svg'><g><path fill-rule='evenodd' clip-rule='evenodd' d='M1034.58 392.932L1700 200L1534.38 872.732L1327.76 674.384L994.483 1021.55C983.169 1033.34 967.538 1040 951.2 1040C934.862 1040 919.231 1033.34 907.917 1021.55L663.2 766.639L303.283 1141.55C280.335 1165.46 242.353 1166.23 218.448 1143.28C194.543 1120.33 193.768 1082.35 216.717 1058.45L619.917 638.448C631.231 626.662 646.862 620 663.2 620C679.538 620 695.169 626.662 706.483 638.448L951.2 893.361L1241.2 591.28L1034.58 392.932Z' fill='%232C8C65'/></g></svg>"
+        },
+        "Shrinkage": {
+            "description": "Shrinkage",
+            "url": "data:image/svg+xml;utf8, <svg width='1900' height='1360' viewBox='0 0 1900 1360' fill='none' xmlns='http://www.w3.org/2000/svg'><g><path fill-rule='evenodd' clip-rule='evenodd' d='M1681.55 216.717C1705.46 239.665 1706.23 277.647 1683.28 301.552L1280.08 721.552C1268.77 733.338 1253.14 740 1236.8 740C1220.46 740 1204.83 733.338 1193.52 721.552L948.8 466.639L658.802 768.72L865.415 967.068L200 1160L365.623 487.268L572.236 685.616L905.517 338.448C916.831 326.662 932.462 320 948.8 320C965.138 320 980.769 326.662 992.083 338.448L1236.8 593.361L1596.72 218.448C1619.67 194.543 1657.65 193.768 1681.55 216.717Z' fill='%23B41543'/></g></svg>"
+        },
+        "Stable": {
+            "description": "Shrinkage",
+            "url": "data:image/svg+xml;utf8, <svg width='1900' height='1360' viewBox='0 0 1900 1360' fill='none' xmlns='http://www.w3.org/2000/svg'><g><rect x='200' y='621.31' width='1500' height='117.38' rx='58.69' fill='%2388938F'/></g></svg>"
+        },
+        "Bateu": {
+            "description": "Growth",
+            "url": "data:image/svg+xml;utf8, <svg width='1900' height='1360' viewBox='0 0 1900 1360' fill='none' xmlns='http://www.w3.org/2000/svg'><g><circle cx='950' cy='680' r='500' fill='%232C8C65'/></g></svg>"
+        },
+        "Quase": {
+            "description": "Growth",
+            "url": "data:image/svg+xml;utf8, <svg width='1900' height='1360' viewBox='0 0 1900 1360' fill='none' xmlns='http://www.w3.org/2000/svg'><g><circle cx='950' cy='680' r='500' fill='%23CECE44'/></g></svg>"
+        },
+        "NaoBateu": {
+            "description": "Growth",
+            "url": "data:image/svg+xml;utf8, <svg width='1900' height='1360' viewBox='0 0 1900 1360' fill='none' xmlns='http://www.w3.org/2000/svg'><g><circle cx='950' cy='680' r='500' fill='%23B41543'/></g></svg>"
+        },
+        "NaoValor": {
+            "description": "Growth",
+            "url": "data:image/svg+xml;utf8, <svg width='1900' height='1360' viewBox='0 0 1900 1360' fill='none' xmlns='http://www.w3.org/2000/svg'><g><circle cx='950' cy='680' r='500' fill='%2388938F'/></g></svg>"
+        }
+    }
+}
+
+
+
+
+
+
+
