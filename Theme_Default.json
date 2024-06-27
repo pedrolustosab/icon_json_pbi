@@ -322,20 +322,20 @@
             "description": "Shrinkage",
             "url": "data:image/svg+xml;utf8, <svg width='1900' height='1360' viewBox='0 0 1900 1360' fill='none' xmlns='http://www.w3.org/2000/svg'><g><rect x='200' y='621.31' width='1500' height='117.38' rx='58.69' fill='%2388938F'/></g></svg>"
         },
-        "Bateu": {
-            "description": "Growth",
+        "Atingiu": {
+            "description": "Atingiu",
             "url": "data:image/svg+xml;utf8, <svg width='1900' height='1360' viewBox='0 0 1900 1360' fill='none' xmlns='http://www.w3.org/2000/svg'><g><circle cx='950' cy='680' r='500' fill='%232C8C65'/></g></svg>"
         },
         "Quase": {
-            "description": "Growth",
+            "description": "Quase",
             "url": "data:image/svg+xml;utf8, <svg width='1900' height='1360' viewBox='0 0 1900 1360' fill='none' xmlns='http://www.w3.org/2000/svg'><g><circle cx='950' cy='680' r='500' fill='%23CECE44'/></g></svg>"
         },
-        "NaoBateu": {
-            "description": "Growth",
+        "NaoAtingiu": {
+            "description": "NaoAtingiu",
             "url": "data:image/svg+xml;utf8, <svg width='1900' height='1360' viewBox='0 0 1900 1360' fill='none' xmlns='http://www.w3.org/2000/svg'><g><circle cx='950' cy='680' r='500' fill='%23B41543'/></g></svg>"
         },
         "NaoValor": {
-            "description": "Growth",
+            "description": "NaoValor",
             "url": "data:image/svg+xml;utf8, <svg width='1900' height='1360' viewBox='0 0 1900 1360' fill='none' xmlns='http://www.w3.org/2000/svg'><g><circle cx='950' cy='680' r='500' fill='%2388938F'/></g></svg>"
         }
     }
